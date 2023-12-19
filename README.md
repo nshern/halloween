@@ -19,12 +19,6 @@ Provide step-by-step instructions on how to install the Halloween theme. For exa
 theme = "halloween_dark_hard" # or halloween_dark_medium or haloween_dark_soft
 ```
 
-## Features
-
-- A dark, moody color scheme with orange accents perfect for the Halloween season.
-- Customized syntax highlighting to improve readability and reduce eye strain.
-- Compatibility with a wide range of programming languages and file types.
-
 ## Contributing
 
 If you'd like to contribute to the Halloween theme, please feel free to submit a pull request or create an issue with your suggestions.
