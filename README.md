@@ -1,6 +1,6 @@
 # Halloween Theme for Helix
 
-Halloween is a non-canonical usage of the [penumbra color palette](https://github.com/nealmckee/penumbra) for [Helix](https://github.com/helix-editor/helix).  
+Halloween is a non-canonical implementation of the [penumbra color palette](https://github.com/nealmckee/penumbra) for [Helix](https://github.com/helix-editor/helix).  
 
 
 ## Preview
@@ -11,12 +11,12 @@ Halloween is a non-canonical usage of the [penumbra color palette](https://githu
 
 Provide step-by-step instructions on how to install the Halloween theme. For example:
 
-1. Clone this repository or download the `halloween.toml` file.
-2. Place the `halloween.toml` file in your Helix configuration directory under the `themes` folder.
+1. Clone this repository or download any of the `.toml` files.
+2. Place the `.toml` file in your Helix configuration directory under the `themes` folder.
 3. Add the following line to your `config.toml`:
 
 ```toml
-theme = "halloween"
+theme = "halloween_dark_hard" # or halloween_dark_medium or haloween_dark_soft
 ```
 
 ## Features

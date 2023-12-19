@@ -139,7 +139,7 @@
 "ui.linenr.selected" = "sky+"
 "ui.statusline" = { fg = "sky", bg = "shade-" }
 "ui.statusline.inactive" = { fg = "sky", bg = "shade+" }
-"ui.statusline.normal" = { fg = "shade", bg = "orange", modifiers = ["bold"] }
+"ui.statusline.normal" = { fg = "shade", bg = "blue", modifiers = ["bold"] }
 "ui.statusline.insert" = { fg = "shade", bg = "green", modifiers = ["bold"] }
 "ui.statusline.select" = { fg = "shade", bg = "purple", modifiers = ["bold"] }
 # "ui.statusline.separator" = {}
