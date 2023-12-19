@@ -1,4 +1,4 @@
-# Halloween Theme for Helix
+# Halloween theme for Helix
 
 Halloween is a non-canonical implementation of the [penumbra color palette](https://github.com/nealmckee/penumbra) for [Helix](https://github.com/helix-editor/helix).  
 
